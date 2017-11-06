@@ -1,0 +1,11 @@
+[
+	{
+		"name" : "Ivan",
+		"surname" : "Ivanov",
+		"phoneNumber" : "88005553535"
+	},
+	{	"name" : "Sergey",
+		"surname" : "Petrov",
+		"phoneNumber" : "88008080808"
+	}
+]
